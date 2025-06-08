@@ -1,0 +1,2 @@
+# RisDocs_flavoredAlerts
+使RisDocs支持GithubFlavoredAlerts语法
