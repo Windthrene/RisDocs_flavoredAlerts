@@ -1,2 +1,3 @@
 # RisDocs_flavoredAlerts
+RisDocs插件  
 使RisDocs支持GithubFlavoredAlerts语法
